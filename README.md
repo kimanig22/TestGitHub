@@ -1,2 +1,2 @@
 # TestGitHub
-Github Tuorial 1
+Test Github is a repository for showing the bare minimum of github and how to maneuver. function etc 
